@@ -1,0 +1,115 @@
+{
+  "home": {
+    "_id": 1110,
+    "page": "Home",
+    "title": "Sample Webpage Title",
+    "url": "https://www.example.com",
+    "sections": {
+      "section1": {
+        "title": "Lorem Ipsum",
+        "large_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "buttontext": "Learn More",
+        "buttonlink": ""
+      },
+      "section2": {
+        "title": "Home1",
+        "small_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+        "large_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "list items": [
+          {
+            "name": "~$ 1.2 T",
+            "text": "Yearly medical costs of obesity by 2025"
+          },
+          {
+            "name": "~$ 600 B",
+            "text": "Related healthcare costs attributable to obesity"
+          },
+          {
+            "name": "440,000 to 1 M",
+            "text": "Increase in diabetic Singaporeans by 2025"
+          }
+        ],
+        "buttontext": "Learn More",
+        "buttonlink": ""
+      },
+      "section3": {
+        "title": "Home1",
+        "small description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+        "large description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+
+        "buttontext": "Learn More",
+        "buttonlink": ""
+      }
+    },
+    "author": {
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    "tags": ["technology", "web", "mongodb"],
+    "content": {
+      "html": "<p>This is the content of the webpage.</p>",
+      "text": "This is the content of the webpage."
+    },
+    "seo": {
+      "metaDescription": "This is a sample webpage description for SEO purposes.",
+      "keywords": ["sample", "webpage", "schema"],
+      "canonicalUrl": "https://www.example.com"
+    },
+    "createdAt": "2025-02-04T10:00:00Z",
+    "updatedAt": "2025-02-04T12:00:00Z",
+    "comments": [
+      {
+        "user": "Jane Smith",
+        "comment": "Great article!",
+        "timestamp": "2025-02-04T11:00:00Z"
+      },
+      {
+        "user": "John Appleseed",
+        "comment": "Very informative, thanks!",
+        "timestamp": "2025-02-04T11:30:00Z"
+      }
+    ],
+    "settings": {
+      "isPublished": true,
+      "allowComments": true
+    }
+  },
+  "about": {
+    "_id": 1111,
+    "page": "About us",
+    "title": "Sample Webpage Title",
+    "url": "https://www.example.com",
+    "author": {
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    "tags": ["technology", "web", "mongodb"],
+    "content": {
+      "html": "<p>This is the content of the webpage.</p>",
+      "text": "This is the content of the webpage."
+    },
+    "seo": {
+      "metaDescription": "This is a sample webpage description for SEO purposes.",
+      "keywords": ["sample", "webpage", "schema"],
+      "canonicalUrl": "https://www.example.com"
+    },
+    "createdAt": "2025-02-04T10:00:00Z",
+    "updatedAt": "2025-02-04T12:00:00Z",
+    "comments": [
+      {
+        "user": "Jane Smith",
+        "comment": "Great article!",
+        "timestamp": "2025-02-04T11:00:00Z"
+      },
+      {
+        "user": "John Appleseed",
+        "comment": "Very informative, thanks!",
+        "timestamp": "2025-02-04T11:30:00Z"
+      }
+    ],
+    "settings": {
+      "isPublished": true,
+      "allowComments": true
+    }
+  }
+}
